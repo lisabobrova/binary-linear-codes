@@ -4,12 +4,6 @@ This repository contains the report for a group project exploring the existence 
 
 The project examines the construction of these codes for small values of k and uses the Griesmer bound to investigate the conditions under which such codes can exist.
 
-## Authors
-
-- Julia Sikora
-- Elisaveta Bobrova
-- Justin Lin
-
 ## Topics
 
 - Coding theory
@@ -18,6 +12,8 @@ The project examines the construction of these codes for small values of k and u
 - Griesmer bound
 - Error-correcting codes
 
-## Report
+## Authors
 
-The full project report is available in this repository.
+- Julia Sikora
+- Elisaveta Bobrova
+- Justin Lin
